@@ -4,7 +4,6 @@
 
 Yongzhe Xu ([yongzhe@vt.edu](mailto:yongzhe@vt.edu))
 Hanwen Ju ([hanwen@vt.edu](mailto:hanwen@vt.edu))
-Yuhang Jia ([yuhangjia@vt.edu](mailto:yuhangjia@vt.edu))
 
 This repository contains the implementation for the CS5834 Final Project, which analyzes monthly foot-traffic patterns using the Dewey Data Monthly Patterns dataset. The project includes data preprocessing, feature extraction, and model execution via `main.py`.
 
